@@ -1,0 +1,5 @@
+
+This example of using CWL is meant to demonstrate the process of extracting some statistics 
+from a collection of bam files. The statistics output is processed through a number of steps 
+and then collected into a single file. Thus performing the 'scatter and gather' operation.
+

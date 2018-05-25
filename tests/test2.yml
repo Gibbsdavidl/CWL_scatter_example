@@ -1,0 +1,4 @@
+filein:
+  - {class: File, path: bamfiles/wgEncodeUwRepliSeqBg02esG1bAlnRep1.bam}
+  - {class: File, path: bamfiles/wgEncodeUwRepliSeqBjG1bAlnRep1.bam}
+  - {class: File, path: bamfiles/wgEncodeUwRepliSeqBjG2AlnRep1.bam}

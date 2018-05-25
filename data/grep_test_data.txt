@@ -1,0 +1,36 @@
+sadfa
+sadf
+asdf
+asdf
+sadf
+# GC Content of first fragments. Use `grep ^GCF | cut -f 2-` to extract this part.
+GCF    1.76    59
+GCF    5.28    339
+GCF    9.05    1711
+GCF    12.81    5563
+GCF    16.33    13725
+GCF    20.10    28794
+GCF    23.87    50786
+GCF    27.39    80820
+GCF    31.16    114459
+GCF    34.92    145874
+GCF    38.69    169101
+GCF    42.46    176195
+GCF    45.98    169219
+GCF    49.75    149912
+GCF    53.52    121675
+GCF    57.04    91100
+GCF    60.80    61303
+GCF    64.57    38726
+GCF    68.34    21998
+GCF    72.11    11445
+GCF    75.63    5189
+GCF    79.40    2152
+GCF    83.17    837
+GCF    86.68    336
+GCF    90.45    116
+laksjdf;l
+lkdjsfal
+kjasdhf
+kjasdhflk
+
